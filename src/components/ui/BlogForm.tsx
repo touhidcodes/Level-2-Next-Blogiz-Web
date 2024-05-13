@@ -25,7 +25,6 @@ const CreateBlogForm = () => {
 
   return (
     <div className="my-10">
-      <h1>Blog Section</h1>
       <h1 className="text-center text-4xl">
         Post Your <span className="text-accent">Blog</span>
       </h1>
